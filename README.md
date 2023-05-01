@@ -1,6 +1,7 @@
 README
 
 Welcome to my website where I document my progress as a computer science student!
+
 About
 
 This website is a place where I showcase my projects, share my experiences, and reflect on what I'm learning in my computer science studies. I'm constantly working on new projects and learning new things, and I wanted to create a space where I could share my progress and connect with others in the field.
