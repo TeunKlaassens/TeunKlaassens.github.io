@@ -1,6 +1,6 @@
 README
 
-www.teunklaassens.nl
+WebsiteL: www.teunklaassens.nl
 
 Welcome to my website where I document my progress as a computer science student!
 
@@ -10,7 +10,7 @@ This website is a place where I showcase my projects, share my experiences, and 
 
 Projects
 
-On my website, you'll find a variety of projects that I've worked on, including web applications, mobile apps, and software development projects. Each project page includes a brief overview of the project, the technologies used, and a link to the project's source code.
+On my website, you'll find a variety of projects that I've worked on, including web applications, and software development projects. Each project page includes a brief overview of the project, the technologies used, and (if applicable) a link to the project's source code.
 
 Blog
 
@@ -18,6 +18,6 @@ In addition to my project pages, I also maintain a blog where I write about my e
 
 Contact
 
-No contact yet, sorry.
+Check out the website for contanct links.
 
 Thank you for visiting my website and following my progress as a computer science student!
