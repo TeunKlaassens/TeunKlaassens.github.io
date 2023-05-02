@@ -1,6 +1,6 @@
 README
 
-WebsiteL: www.teunklaassens.nl
+Website: www.teunklaassens.nl
 
 Welcome to my website where I document my progress as a computer science student!
 
